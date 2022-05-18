@@ -16,7 +16,9 @@ const Header = () => {
         ghost={false}
         extra={[
           <>
+          <Link to="/">
           <img src={Amazon} className="logo"></img>
+          </Link>
           <Search
               placeholder="Find A Product"
               enterButton

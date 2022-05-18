@@ -45,7 +45,7 @@ return(
         <h1>Lightyear</h1>
         <img src={LightYear} alt="Lightyear" className="card-content"></img>
         <br />
-        <Link to="/" className="link">
+        <Link to="/categories" className="link"  state={"Comics"}>
           View Product
         </Link>
       </Card>
@@ -53,7 +53,7 @@ return(
         <h1>The Art of the Batman</h1>
         <img src={BatMan} alt="Batman" className="card-content"></img>
         <br />
-        <Link to="/" className="link">
+        <Link to="/categories" className="link"  state={"Comics"} >
           View Product
         </Link>
       </Card>
