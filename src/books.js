@@ -8,6 +8,7 @@ import batman from "./images/batman.jpg";
 import novel from "./images/novel.jpg";
 import cwo from "./images/cwo.jpg";
 import rdpd from "./images/rdpd.jpg";
+import horror from "./images/horror.jpg"
 export const books = {
   Comics: [
     {
@@ -16,7 +17,7 @@ export const books = {
       rating: 4,
       image: lightyear,
       about:
-        "The Official Spider Man No Way Home Movie Special Book",
+        "This hardcover deluxe junior novelization retells the exciting story of Disney and Pixar’s upcoming animated feature film Lightyear—in theaters Summer 2022! The Deluxe Junior Novelization also comes with a full-color insert and a pull-out movie poster!",
     },
     {
       name: "The Art of The Batman",
@@ -39,7 +40,7 @@ export const books = {
     {
       name: "The New Tsar: The Rise and Reign of Vladimir Putin",
       price: 0.00076,
-      rating: 4.5,
+      rating: 5,
       image: put,
       about:
         "The epic tale of the rise to power of Russia's current president - the only complete biography in English - that fully captures his emergence from shrouded obscurity and deprivation to become one of the most consequential and complicated leaders in modern history, by the former New York Times Moscow bureau chief. In a gripping narrative of Putin's rise to power as Russia's president, Steven Lee Myers recounts Putin's origins - from his childhood of abject poverty in Leningrad to his ascension through the ranks of the KGB and his eventual consolidation of rule. Along the way world events familiar to listeners, such as September 11th and Russia's war in Georgia in 2008, as well as the 2014 annexation of Crimea and the ongoing conflict in Ukraine, are presented from never-before-seen perspectives."
@@ -89,9 +90,9 @@ export const books = {
         name: "The Strange Case of Dr. Jekyll and Mr. Hyde",
         price: 0.00076,
         rating: 4.5,
-        image: put,
+        image: horror,
         about:
-          "The epic tale of the rise to power of Russia's current president - the only complete biography in English - that fully captures his emergence from shrouded obscurity and deprivation to become one of the most consequential and complicated leaders in modern history, by the former New York Times Moscow bureau chief. In a gripping narrative of Putin's rise to power as Russia's president, Steven Lee Myers recounts Putin's origins - from his childhood of abject poverty in Leningrad to his ascension through the ranks of the KGB and his eventual consolidation of rule. Along the way world events familiar to listeners, such as September 11th and Russia's war in Georgia in 2008, as well as the 2014 annexation of Crimea and the ongoing conflict in Ukraine, are presented from never-before-seen perspectives."
+          "As you stroll along the streets of London in the company of lawyer Utterson and his distant relative Enfield, the latter narrates a gruesome tale of assault he had witnessed some months ago. the tale describes a dreadful looking sinister man, Mr. Hyde, who ruthlessly tramples a young girl and disappears behind a door. a moment later he reemerges to pay off her relatives with a cheque drawn from the account of a reputable gentleman, later identified to be Utterson?s client and old friend, Dr. Jekyll. Who is Mr. Hyde?Who is Dr. Jekyll?Is there a mysterious connection between the two?Read Stevenson?s thrilling and titillating masterpiece, the Strange Case of Dr. Jekyll and Mr. Hyde, to knit up the jigsaw puzzle and unveil the suspense. A harrowing tale of good and evil, this classic novella describes the fundamental dichotomy of the 19th century?outward respectability and inward lust, a duality for which it has been noted as ?one of the best guidebooks of the Victorian era? and remains one of the most famous stories of English literature."
       }
   ],
   Finance: [

@@ -2,7 +2,6 @@ import {Select, Button, Modal, Input} from 'antd'
 import {ShoppingCartOutlined} from "@ant-design/icons";
 import { useState } from 'react';
 import { useMoralis } from 'react-moralis';
-import price from "crypto-price"
 
 const {Option} = Select;
 function Purchase({book}) {

@@ -11,7 +11,7 @@ const { Sider, Content } = Layout;
 
 const Categories = () => {
   const { state: category } = useLocation();
-  const [rating, setRating] = useState(1);
+  const [rating, setRating] = useState(5);
   const [priceMin, setPriceMin] = useState(0);
   const [priceMax, setPriceMax] = useState(100);
 
