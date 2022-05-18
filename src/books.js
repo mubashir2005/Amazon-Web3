@@ -12,7 +12,7 @@ export const books = {
   Comics: [
     {
       name: "Disney/Pixar Lightyear: The Deluxe Junior Novelization",
-      price: 20,
+      price: 0.00076,
       rating: 4,
       image: lightyear,
       about:
@@ -20,7 +20,7 @@ export const books = {
     },
     {
       name: "The Art of The Batman",
-      price: 30,
+      price: 0.00076,
       rating: 5,
       image: batman,
       about:
@@ -28,7 +28,7 @@ export const books = {
     },
     {
       name: "The Art of DuckTales (Deluxe Edition)",
-      price: 50,
+      price: 0.00076,
       rating: 5,
       image: ducktales,
       about:
@@ -38,7 +38,7 @@ export const books = {
   Controversial: [
     {
       name: "The New Tsar: The Rise and Reign of Vladimir Putin",
-      price: 12,
+      price: 0.00076,
       rating: 4.5,
       image: put,
       about:
@@ -48,7 +48,7 @@ export const books = {
   Novels: [
     {
       name: "The Complete Sherlock Holmes Collection (Wordsworth Box Sets)",
-      price: 20,
+      price: 0.00076,
       rating: 4,
       image: novel,
       about:
@@ -59,7 +59,7 @@ export const books = {
   Fantasy: [
     {
         name: "Harry Potter and the Sorcerer's Stone",
-        price: 0.1,
+        price: 0.00076,
         rating: 5,
         image: harry1,
         about:
@@ -67,7 +67,7 @@ export const books = {
       },
       {
         name: "The Tales of Beedle the Bard: A Harry Potter Hogwarts Library Book",
-        price: 0.2,
+        price: 0.00076,
         rating: 5,
         image: harry2,
         about:
@@ -75,7 +75,7 @@ export const books = {
       },
       {
         name: "A Game of Thrones: A Song of Ice and Fire",
-        price: 0.5,
+        price: 0.00076,
         rating: 5,
         image: game,
         about:
@@ -87,7 +87,7 @@ export const books = {
   Horror: [
       {
         name: "The Strange Case of Dr. Jekyll and Mr. Hyde",
-        price: 10,
+        price: 0.00076,
         rating: 4.5,
         image: put,
         about:
@@ -97,7 +97,7 @@ export const books = {
   Finance: [
     {
       name: "Rich Dad Poor Dad",
-      price: 5,
+      price: 0.00076,
       rating: 5,
       image: rdpd,
       about:
@@ -105,7 +105,7 @@ export const books = {
     },
     {
       name: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail ",
-      price: 20,
+      price: 0.00076,
       rating: 5,
       image: cwo,
       about:

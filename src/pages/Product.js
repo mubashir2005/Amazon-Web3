@@ -24,7 +24,7 @@ const Product = () => {
         <hr></hr>
         <p>
           Price:
-          <span className="price"> ${book.price}</span>
+          <span className="price"> {book.price}ETH</span>
         </p>
         <p>
           No Import Fees & Free Shipping Included
