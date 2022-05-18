@@ -22,6 +22,8 @@ const Header = () => {
               enterButton
               className = "searchBar"
             />
+            <Space/>
+            <Space/>
          <Button 
          className="login"
          key="1" 
@@ -29,6 +31,8 @@ const Header = () => {
          onClick={() => authenticate()}>
           {account ? <span>{account.slice(0,5)}...</span> : <span>login</span>}
           </Button>
+          <Space/>
+          <Space/>
           <Space size={"large"}>
               
               <Badge count={0} showZero>
